@@ -1,4 +1,3 @@
-# Mahdi Hassanzadeh
 from operator import indexOf
 import random
 
